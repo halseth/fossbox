@@ -1,0 +1,8 @@
+[package]
+name = "fossbox"
+version = "0.1.0"
+authors = ["halseth <johanth@gmail.com>"]
+
+[dependencies]
+clap = "2.10.0"
+notify = "2.6.2"
